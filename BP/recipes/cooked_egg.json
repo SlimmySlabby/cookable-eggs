@@ -1,0 +1,14 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "ssce:furnace_cooked_egg"
+		},
+		"tags": [
+			"furnace",
+			"smoker"
+		],
+		"input": "minecraft:egg",
+		"output": "ssce:cooked_egg"
+	}
+}

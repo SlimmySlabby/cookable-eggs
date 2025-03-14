@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ssce:cooked_egg",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:icon": "ssce:icon_cooked_egg",
+			"minecraft:use_modifiers": {
+				"use_duration": 1.6
+			},
+			"minecraft:food": {
+				"nutrition": 4,
+				"saturation_modifier": 1
+			},
+			"minecraft:use_animation": "eat"
+		}
+	}
+}
